@@ -3,7 +3,7 @@ getgenv().Config = {
     ["ShrineBoost"] = "Luck",
     ["Webhook"] = {
         ["URL"] = "https://discord.com/api/webhooks/1360985023418732554/q0IgGXVWtWOCO6CCHQdWkNL998-wRq8Ql-Al39s2_-HlOGDwg4GVoCG01fLRbcNyvKE-",
-        ["Discord Id to ping"] = {"userid"}
+        ["Discord Id to ping"] = {"1045768257078054963"}
     },
 
     ["GoldWhenInventoryFull"] = true,
