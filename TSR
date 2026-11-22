@@ -2,7 +2,7 @@ script_key="CIcwbtFYSFLqtBUdMGEwyCkUAlYsULrM";
 getgenv().Config = {
     ["ShrineBoost"] = "Luck",
     ["Webhook"] = {
-        ["URL"] = "https://discord.com/api/webhooks/1299909946145509427/aZZ8Z3jIBkdHQaHTnwsF6Di5h_h5QXN_pEmWP6VpBURa7o41I__Uw-UfGfS9IgoPpsl4",
+        ["URL"] = "https://discord.com/api/webhooks/1360985023418732554/q0IgGXVWtWOCO6CCHQdWkNL998-wRq8Ql-Al39s2_-HlOGDwg4GVoCG01fLRbcNyvKE-",
         ["Discord Id to ping"] = {"userid"}
     },
 
