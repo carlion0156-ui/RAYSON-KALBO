@@ -11,7 +11,7 @@ getgenv().Config = {
     ["PetDefense"] = false,
 
     ["AutoTrade"] = {
-        ["Users"] = {"pahingamuna21"},
+        ["Users"] = {"candychocolatier"},
         ["TradeRarities"] = {"Secret"},
     },
 
